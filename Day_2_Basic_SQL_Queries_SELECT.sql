@@ -70,7 +70,7 @@ FROM emp;
 -- The output - and you won't have any duplicates
 
 SELECT department_id
-FROM FROM emp;
+FROM emp;
 
 SELECT DISTINCT department_id
 FROM emp;
