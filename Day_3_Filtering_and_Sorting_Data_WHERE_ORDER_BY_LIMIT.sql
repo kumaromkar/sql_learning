@@ -3,10 +3,10 @@
 -- WHERE 
 -- Where clause is used for filter records (rows of data)
 
--- #It's going to extract only those records that fulfill a specified condition.
+-- #It's going to extract only those records that fulfilled a specified condition.
 
 /*
-Where statement
+Common Operators in WHERE
 
 =,<>/!=,<,>, AND, OR, NULL, NOT NULL, LIKE, IN, BETWEEN
 
